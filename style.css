@@ -1,0 +1,166 @@
+body{
+    
+        font-family: "Young Serif", serif;
+        font-weight: 400;
+        font-style: normal;
+    
+      
+}
+*{
+        padding: 0px;
+        margin: 0px;
+}
+.container{
+        margin: 50px;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
+.container-three{
+        text-align: center;
+        padding-top: 30px;
+        background-color:#f15266 ;
+        border: none;
+        border:white double 10px;
+        color: white;
+        padding-bottom: 10px;
+        border-radius: 25px;
+}
+.container-one{
+
+        background-color:#f15266 ;
+        color: white;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        border-radius: 25px;
+        border: none;
+        border: double 10px white;
+}
+
+.container-two{
+        padding-top: 30px;
+        padding-bottom: 30px;
+        display: inline-block;
+        display: flex;
+        flex-direction: row;
+        
+        
+        justify-content: center;
+}
+.container-img__one{
+       
+        border: none;
+        border: double 5px black;
+        text-align: center;
+        width: 200px;
+        border-radius: 10px;
+   
+
+}
+.sad{
+        background-color: aqua;
+        color: black;
+        padding: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border:none;
+        border: double 5px white;
+        border-radius: 20px;
+        font-weight: bold;
+}
+.container-three__title{
+        color: black;
+        text-shadow: 1px 1px   white ;
+        
+
+}
+
+.container-three__text,.container-three__age,.container-three__email{
+        padding: 15px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border: none;
+        border-bottom: solid 5px solid;
+        border-radius: 20px;
+        margin: 10px;
+}
+.se{
+        color: black;
+        font-weight: bolder;
+}
+.boss{
+        width: 600px;
+        text-align: center;
+        border: none;
+        border-radius: 20px;
+        background-color: yellow;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        font-size: 20px; 
+        color: black;
+        font-weight: bolder;       
+}
+.ss:hover{
+        background-color:red;
+        border:none;
+        border: dashed 10px white;
+        color: white;
+}
+.ss{
+        text-decoration: none;
+        color: white;
+        display: inline-block;
+}
+
+button:hover{
+        
+                background-color:red;
+                border:none;
+                border: dashed 10px white;
+                color: white;
+        
+}
+input:hover{
+        background-color: white;
+        border: none;
+        border: double 10px red;
+}
+.con{
+        text-decoration: none;
+        color:black;
+        display: inline-block;  
+}
+.con:hover{
+        background-color: red;
+        border: none;
+        border: dashed 10px white; 
+        color: white;
+        padding: 10px;
+        border-radius: 25px;
+
+}
+.sse{
+        text-decoration: none;
+        color: black;
+        display: inline-block; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
